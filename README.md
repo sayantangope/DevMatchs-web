@@ -171,11 +171,6 @@ On successful payment, the backend webhook upgrades `isPremium` and `membershipT
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is private and unlicensed.
 
 ---
 
